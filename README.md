@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior PHP/Laravel Developer with ~5 years of experience** building web platforms, portals, payment integrations, and APIs. I work across the full stack with **Laravel, Vue 3 + Inertia.js, Next.js, and TypeScript**, and I have a particular niche in **payment gateway integrations** (CyberSource, WooCommerce, Magento).
+I'm a **Senior PHP/Laravel Developer with ~5 years of experience** building web platforms, portals, payment integrations, and APIs. I work across the full stack with **Laravel, Node.js, Vue 3 + Inertia.js, React, Next.js, and TypeScript**, deploy on **AWS**, and I have a particular niche in **payment gateway integrations** (CyberSource, WooCommerce, Magento).
 
 I also hold an **MS in Project Management** from Bahria University, Islamabad, so I don't just write code. I plan, scope, and deliver it, and I understand how projects succeed or fail.
 
@@ -29,14 +29,15 @@ I also hold an **MS in Project Management** from Bahria University, Islamabad, s
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,10 +54,10 @@ I also hold an **MS in Project Management** from Bahria University, Islamabad, s
 
 CyberSource (Recurring Billing, Microform v2, Secure Acceptance, TMS) · Meta WhatsApp Cloud API · Groq AI · Pusher
 
-**Tools**
+**Cloud & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -158,6 +159,8 @@ Converted a static HTML site into a full **WordPress theme** with Customizer int
 ## 🤝 What I Can Help With
 
 - Custom Laravel + Vue 3 / Inertia web applications
+- React and Next.js frontends with Node.js backends
+- Cloud deployment and hosting on AWS
 - Payment gateway integrations (CyberSource, WooCommerce, Magento)
 - WordPress and WooCommerce plugin development
 - Laravel version upgrades and refactoring
